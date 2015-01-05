@@ -1,0 +1,7 @@
+name: "Airrows' Free Writing"
+description: "A place for me to free write and improve"
+
+url: "http://localhost:4000"
+
+permalink: pretty
+highlighter: rouge
